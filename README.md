@@ -21,8 +21,6 @@ Currently, I'm diving deep into:
 I'm still happy to learn and talk about pretty much anything, as long as it's challenging \
 If spending a lot of time tinkering with complicated stuff sounds like fun to you, feel free to reach out !
 
----
-
 <!--
 **Nickname064/Nickname064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
